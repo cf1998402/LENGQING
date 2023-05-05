@@ -1,1 +1,1 @@
-[{"packageName":"org.telegram.messenger","appName":"Telegram","versionName":"9.6.5","description":"Premium","configs":"[{\"className\":\"org.telegram.messenger.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\"}]","id":7}]
+[{"packageName":"org.telegram.messenger.web","appName":"Telegram","versionName":"9.6.5","description":"Premium","configs":"[{\"className\":\"org.telegram.messenger.web.UserConfig\",\"methodName\":\"isPremium\",\"resultValues\":\"true\"}]","id":7}]
